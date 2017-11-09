@@ -24,5 +24,7 @@ subtitle: 走马灯
 | easing | 动画效果 | string | linear |
 | effect | 动画效果函数，可取 scrollx, fade | string | scrollx |
 | vertical | 垂直显示 | boolean | false |
+| slidesToShow | 每页显示个数 | number | 1 |
+| slidesToScroll | 滚轮每次滚动个数 | number | 1 |
 
 更多参数可参考：<https://github.com/akiran/react-slick>
